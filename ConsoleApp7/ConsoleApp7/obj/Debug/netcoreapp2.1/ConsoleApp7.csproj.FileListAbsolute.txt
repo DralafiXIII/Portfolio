@@ -20,3 +20,14 @@ C:\Users\drala\OneDrive\Documents\Visual Studio 2017\Projects\ConsoleApp7\Consol
 C:\Users\drala\OneDrive\Documents\Visual Studio 2017\Projects\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp2.1\ConsoleApp7.AssemblyInfo.cs
 C:\Users\drala\OneDrive\Documents\Visual Studio 2017\Projects\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp2.1\ConsoleApp7.dll
 C:\Users\drala\OneDrive\Documents\Visual Studio 2017\Projects\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp2.1\ConsoleApp7.pdb
+C:\Users\settg\Source\Repos\DralafiXIII\Portfolio\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp2.1\ConsoleApp7.deps.json
+C:\Users\settg\Source\Repos\DralafiXIII\Portfolio\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp2.1\ConsoleApp7.runtimeconfig.json
+C:\Users\settg\Source\Repos\DralafiXIII\Portfolio\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp2.1\ConsoleApp7.runtimeconfig.dev.json
+C:\Users\settg\Source\Repos\DralafiXIII\Portfolio\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp2.1\ConsoleApp7.dll
+C:\Users\settg\Source\Repos\DralafiXIII\Portfolio\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp2.1\ConsoleApp7.pdb
+C:\Users\settg\Source\Repos\DralafiXIII\Portfolio\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp2.1\ConsoleApp7.csprojAssemblyReference.cache
+C:\Users\settg\Source\Repos\DralafiXIII\Portfolio\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp2.1\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\settg\Source\Repos\DralafiXIII\Portfolio\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp2.1\ConsoleApp7.AssemblyInfoInputs.cache
+C:\Users\settg\Source\Repos\DralafiXIII\Portfolio\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp2.1\ConsoleApp7.AssemblyInfo.cs
+C:\Users\settg\Source\Repos\DralafiXIII\Portfolio\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp2.1\ConsoleApp7.dll
+C:\Users\settg\Source\Repos\DralafiXIII\Portfolio\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp2.1\ConsoleApp7.pdb
