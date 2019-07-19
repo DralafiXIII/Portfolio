@@ -6,20 +6,24 @@ namespace ConsoleApp6
     {
         static void Main(string[] args)
         {
-            Console.Write("Input the number of seeds: ");
-
             int teams;
 
-            try
+            while(true)
             {
-                teams = int.Parse(Console.ReadLine());
-                if (teams <= 0)
-                    teams = int.Parse("Must be a positive number!");
-            }
+                try
+                {
+                    Console.Write("Input the number of seeds: ");
+                    teams = int.Parse(Console.ReadLine());
+                    if (teams <= 0)
+                        Console.WriteLine("Must be a positive number!");
+                    else
+                        break;
+                }
 
-            catch
-            {
-                throw new Exception("That's not a valid input!");
+                catch
+                {
+                    Console.WriteLine("That's not a valid input!");
+                }
             }
 
             int[] seeds = new int[teams];
