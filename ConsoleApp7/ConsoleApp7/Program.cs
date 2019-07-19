@@ -17,7 +17,10 @@ namespace ConsoleApp6
                     if (teams <= 0)
                         Console.WriteLine("Must be a positive number!");
                     else
+                    {
+                        Console.WriteLine();
                         break;
+                    }
                 }
 
                 catch
