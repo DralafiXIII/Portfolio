@@ -60,7 +60,7 @@ namespace ConsoleApp6
 
                 int count;
                 int buyMax = buyCount;
-                int pairLength = 0;
+                int pairLength;
                 buyCount = seeds.Length - buyCount;
 
                 if (buyCount <= buyMax / 2)
