@@ -188,7 +188,7 @@ namespace ConsoleApp6
 
         public static string[] plant(string[] start)
         {
-            string[] temp = start;
+            string[] temp;
             
             if (start.Length % 2 == 0)
             {
